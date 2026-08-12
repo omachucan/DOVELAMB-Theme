@@ -1,17 +1,31 @@
 # Changelog
 
-All notable changes to DOVELAMB Theme will be documented in this file.
+All notable changes to the DOVELAMB Theme project will be documented in this file.
 
-The project follows Semantic Versioning.
-
-## [0.1.0] - Unreleased
+## [0.1.0] - 2026-08-11
 
 ### Added
 
-- Initial project structure.
-- Base Oh My Posh configuration.
+- Initial DOVELAMB Theme project structure.
+- Custom Oh My Posh base configuration.
+- DOVELAMB workstation identification.
+- Current user information.
+- Current working directory.
+- Git branch information.
+- Git repository status indicators.
+- Multiline prompt layout.
+- PowerShell 7 support.
+- JetBrains Mono Nerd Font support.
+
+### Git status indicators
+
+- `✓` Clean repository.
+- `*` Modified files in the working tree.
+- `+` Changes added to the staging area.
+
+### Documentation
+
 - English README.
 - Spanish README.
 - Architecture documentation.
 - Project roadmap.
-- Initial changelog.
